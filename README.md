@@ -1,9 +1,5 @@
-# few-shot-robustness-nlp
-CLAWS project on few-shot robustness in NLP
-
-
-This is the implementation of the paper [Adversarial Robustness of Prompt-based Few-Shot Learning for Natural
-Language Understanding](paper link). 
+# few-shot-adversarial-robustness
+Code for ACL'23 Findings paper on 'Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding'
 
 ## Quick links
 
