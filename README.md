@@ -1,5 +1,11 @@
 # few-shot-adversarial-robustness
-Code for ACL'23 Findings paper on 'Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding'
+## Code for ACL'23 Findings paper on 'Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding'
+
+**Authors**: [Venkata Prabhakara Sarath Nookala]()\*<sup>1</sup>, [Gaurav Verma](https://gaurav22verma.github.io/)\*<sup>1</sup>, [Subhabrata Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/)<sup>2</sup>, and [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/)<sup>1</sup>  
+**Affiliations**: <sup>1</sup>Georgia Institute of Technology, <sup>2</sup>Microsoft Research
+
+**Paper (pdf)**: [arXiv]()  
+**Poster (pdf**): [coming soon]()  
 
 ## Quick links
 
@@ -95,11 +101,10 @@ bash scripts/search_petmlm_multisplit.sh qqp 0 albert ../data/k-shot/QQP/64-13 f
 Please cite our paper if you use our evaluation experiments in your work:
 
 ```bibtex
-@inproceedings{,
-   title={Adversarial Robustness of Prompt-based Few-Shot Learning for Natural
-Language Understanding,
-   author={Venkata Prabhakara Sarath Nookala, Gaurav Verma, Subhabrata Mukherjee, Srijan Kumar},
-   booktitle={Association for Computational Linguistics (ACL)},
+@inproceedings{nookala2023adversarial,
+   title={Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding,
+   author={Nookala, Venkata Prabhakara Sarath and Verma, Gaurav and Mukherjee, Subhabrata and Kumar, Srijan},
+   booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
    year={2023}
 }
 ```
