@@ -1,0 +1,25 @@
+search_petmlm_multisplit.sh: line 11: ??: command not found
+search_petmlm_multisplit.sh: line 12: ??: command not found
+search_petmlm_multisplit.sh: line 15: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 20: [: =: unary operator expected
+Running with the following parameters:
+------------------------------------
+DATASET_NAME = glue
+TASK_NAME = 
+METHOD = pet
+DEVICE = 
+MODEL_TYPE = 
+MODEL_NAME_OR_PATH = 
+DATA_ROOT = 
+SAVE_DIR = 
+------------------------------------
+search_petmlm_multisplit.sh: line 45: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 48: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 52: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 56: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 60: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 66: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 70: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 76: [: =: unary operator expected
+search_petmlm_multisplit.sh: line 84: [: =: unary operator expected
+Task   is not supported by this script.
