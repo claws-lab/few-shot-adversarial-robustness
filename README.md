@@ -1,4 +1,3 @@
-# few-shot-adversarial-robustness
 ## Code for ACL'23 Findings paper on 'Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding'
 
 **Authors**: [Venkata Prabhakara Sarath Nookala]()\*<sup>1</sup>, [Gaurav Verma](https://gaurav22verma.github.io/)\*<sup>1</sup>, [Subhabrata Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/)<sup>2</sup>, and [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/)<sup>1</sup>  
