@@ -4,7 +4,7 @@
 **Authors**: [Venkata Prabhakara Sarath Nookala]()\*<sup>1</sup>, [Gaurav Verma](https://gaurav22verma.github.io/)\*<sup>1</sup>, [Subhabrata Mukherjee](https://www.microsoft.com/en-us/research/people/submukhe/)<sup>2</sup>, and [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/)<sup>1</sup>  
 **Affiliations**: <sup>1</sup>Georgia Institute of Technology, <sup>2</sup>Microsoft Research
 
-**Paper (pdf)**: [arXiv]()  
+**Paper (pdf)**: [arXiv](https://arxiv.org/abs/2306.11066)  
 **Poster (pdf**): [coming soon]()  
 
 ## Quick links
